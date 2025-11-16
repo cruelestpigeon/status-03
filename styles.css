@@ -1,0 +1,4 @@
+body { font-family: sans-serif; margin:0; padding:0; }
+.nav { display:flex; gap:10px; padding:10px; background:#f3f3f3; }
+.nav button { padding:8px 12px; }
+#panel { padding:20px; }
