@@ -1,0 +1,1 @@
+export class App{constructor(root){root.innerHTML=`<h1>Status App Base</h1>`;}}
